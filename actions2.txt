@@ -1,0 +1,2 @@
+addPage stack_datastructure_wiki
+queryFindPositionsOfWordInAPage stack stack_datastructure_wiki
